@@ -6,7 +6,7 @@ A well organized page to share my projects with potential employers or with fell
 
 ## Screenshot
 
-![Full Application View]()
+![Full Application View](assets/Portfolio_SS.PNG)
     
 ## Table of Contents
     
