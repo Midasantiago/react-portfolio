@@ -3,6 +3,10 @@
 ## Description
     
 A well organized page to share my projects with potential employers or with fellow developers to collaborate on future projects.
+
+## Screenshot
+
+![Full Application View]()
     
 ## Table of Contents
     
